@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MultiFile.dir/funcc.cc.o CMakeFiles/MultiFile.dir/main.cc.o -o MultiFile 

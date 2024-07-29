@@ -1,0 +1,3 @@
+/home/zzy/Desktop/CmakeTutorial/MutilFile/CMakeFiles/MultiFile.dir
+/home/zzy/Desktop/CmakeTutorial/MutilFile/CMakeFiles/edit_cache.dir
+/home/zzy/Desktop/CmakeTutorial/MutilFile/CMakeFiles/rebuild_cache.dir
